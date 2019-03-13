@@ -1,0 +1,21 @@
+body{background-color:#d3d3d3; width:100%; font-family:Verdana, Arial; font-size:14px;}
+
+#page {text-align:center; background-color:white; margin:auto; max-width:700px;padding:20px; display:block;}
+#cadre_presentation{background-color:#eeeeee; width:85%; margin:20px auto 5px auto; padding:25px 18px 25px 18px;}
+#footer{background-color:#eeeeee; height:80px; margin: 10px 0 0 0; padding: 15px 0 0 0;}
+h1 {color:#000000; font-size:60px; font-weight:bolder; border-top:2px #000000 solid; border-bottom:2px #000000 solid; padding:5px 0 15px 0; margin-top:15px;}
+h2 {color:#000000; font-size:25px; font-weight:bolder; margin:10px;}
+h3 {color:#8b0000; font-size:20px; font-weight:bolder; margin:15px 0 15px 0;}
+h1, h2, h3 {font-family:Oswald, Arial;}
+p {text-align:justify; margin:0 0 15px 0; }
+
+.hilinoir {background-color:#000000; color:#ffffff;font-size:14px;padding:8px; }
+
+.citation{display:block; padding: 15px 0 0 0; font-size:12px; font-style:italic; text-align:center; border-top:1px black solid;}
+
+.cadreimage {border: 1px #000000 solid; width:30%; margin:10px auto 0 auto; padding: 20px; }
+.vignette {width:90%;}
+.minivignette{width:80px;margin:20px;}
+
+a {text-transform:uppercase; display:block; width:100%; margin:0 0 5px 0; background-color:#eeeeee; color:#ff0000; text-size:14px;  text-transform:uppercase; text-decoration: none; border-radius: 10px;padding: 5px;}
+a:hover{background-color:#000000; color:#ffffff;}
